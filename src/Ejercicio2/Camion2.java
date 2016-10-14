@@ -9,6 +9,7 @@ public class Camion2 extends Carro2{
         System.out.println("camion 1");
     }
 
+    // Print del metodo m1 de la super clase Carro
     public void m2() {
         super.m1();
     }
